@@ -1,0 +1,13 @@
+<p>
+    <!-- para acessar a variável utiliza essas duas chaves -->
+    Lista de cursos do portal {{ nomePortal }}
+</p>
+
+<app-curso-detalhe></app-curso-detalhe>
+
+<ul>
+    <!-- Diretivas são os if, for -->
+    <li *ngFor="let curso of cursos">
+        {{ curso }}
+    </li>
+</ul>

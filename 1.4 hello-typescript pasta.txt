@@ -1,0 +1,7 @@
+http://es6-features.org/ site que contém as funcionalidades adicionadas no ecmascript 6.
+
+Babel transpila o javascript ecma6 em javascript puro. Pelo que entendi, ele transpila para uma versão do javascript aderida até pelos mais antigos navegadores.
+
+Decorators como as notações do java. Ele adiciona novas coisas as classes.
+
+typescript tem coisas parecidas ao c#.

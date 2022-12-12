@@ -1,0 +1,14 @@
+ Projetos só são criados iniciando com letras.
+ng new [nome-projeto] - cria um projeto. Demora.
+
+O packet.json contém as bibliotecas.
+
+ng serve - builda o projeto e inicia
+
+Dá para criar componentes manualmente.
+
+ng g c [nome-componente] - cria um componente com a cli.
+
+Inicialmente não vai precisar do implements da classe, nem o constructor e a função ngOnInit.
+
+No arquivo app.component.html é onde iremos colocar os seletores dos componentes.

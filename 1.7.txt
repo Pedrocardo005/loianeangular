@@ -1,0 +1,7 @@
+ Não é uma boa colocar as regras de negócios no componente, ele só irá ter a lógica da interação com o botão e essas coisas.
+
+ Classe serviço vai conter as informações. Ela pega do backend.
+
+ng g s [nome-serviço] - cria um serviço
+
+Injeção de dependência faz com que já traga a instância da classe para que possamos utilizar, não precisa instanciar manualmente.

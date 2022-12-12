@@ -1,0 +1,7 @@
+ Hoje vamos ver o databind, que é uma forma de associar um template com o componente.
+ 
+ Separaremos em outro projeto. Criamos um projeto data-biding só pra essa aula.
+
+ ng new (nome do projeto) - cria um projeto novo
+ cd && ng g c (nome do componente) - cria um novo componente.
+ ng serve - inicia a aplicação

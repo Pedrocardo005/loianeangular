@@ -1,0 +1,3 @@
+ As diretivas são os if's, for e outras estruturas utilizadas no template.
+
+ Os arquivos .specs servem para fazer o teste unitário daquele componente.

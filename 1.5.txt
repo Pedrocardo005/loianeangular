@@ -1,0 +1,7 @@
+ Modulos servem para organizar o projeto.
+
+ng g m [nome-modulo] - cria um novo módulo. Arquivo do módulo: cursos.module.ts.
+
+ng g c cursos - eu digitei esse comando e já adicionou o component no módulo de cursos, os arquivos do componente cursos ficaram na mesma pasta que o arquivo do módulo.
+
+ng g c cursos/curso-detalhe - comando para criar um componente já dentro uma pasta (módulo).

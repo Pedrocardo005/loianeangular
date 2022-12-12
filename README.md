@@ -1,0 +1,1 @@
+Sempre que fizer uma aula, coloque ela em um commit e no cabeçalho coloque o número da aula.
